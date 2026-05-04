@@ -1,0 +1,17 @@
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Persistencia\bin\Debug\net9.0\DientesLimpios.Persistencia.deps.json
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Persistencia\bin\Debug\net9.0\DientesLimpios.Persistencia.dll
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Persistencia\bin\Debug\net9.0\DientesLimpios.Persistencia.pdb
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Persistencia\bin\Debug\net9.0\DientesLimpios.Aplicacion.dll
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Persistencia\bin\Debug\net9.0\DientesLimpios.Dominio.dll
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Persistencia\bin\Debug\net9.0\DientesLimpios.Aplicacion.pdb
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Persistencia\bin\Debug\net9.0\DientesLimpios.Dominio.pdb
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Persistencia\obj\Debug\net9.0\DientesLimpios.Persistencia.csproj.AssemblyReference.cache
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Persistencia\obj\Debug\net9.0\DientesLimpios.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Persistencia\obj\Debug\net9.0\DientesLimpios.Persistencia.AssemblyInfoInputs.cache
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Persistencia\obj\Debug\net9.0\DientesLimpios.Persistencia.AssemblyInfo.cs
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Persistencia\obj\Debug\net9.0\DientesLimpios.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Persistencia\obj\Debug\net9.0\DientesL.1AE3AA1F.Up2Date
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Persistencia\obj\Debug\net9.0\DientesLimpios.Persistencia.dll
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Persistencia\obj\Debug\net9.0\refint\DientesLimpios.Persistencia.dll
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Persistencia\obj\Debug\net9.0\DientesLimpios.Persistencia.pdb
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Persistencia\obj\Debug\net9.0\ref\DientesLimpios.Persistencia.dll

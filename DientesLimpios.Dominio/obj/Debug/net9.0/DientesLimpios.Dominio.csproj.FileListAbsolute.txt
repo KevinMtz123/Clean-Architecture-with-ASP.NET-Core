@@ -1,0 +1,11 @@
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Dominio\bin\Debug\net9.0\DientesLimpios.Dominio.deps.json
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Dominio\bin\Debug\net9.0\DientesLimpios.Dominio.dll
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Dominio\bin\Debug\net9.0\DientesLimpios.Dominio.pdb
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Dominio\obj\Debug\net9.0\DientesLimpios.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Dominio\obj\Debug\net9.0\DientesLimpios.Dominio.AssemblyInfoInputs.cache
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Dominio\obj\Debug\net9.0\DientesLimpios.Dominio.AssemblyInfo.cs
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Dominio\obj\Debug\net9.0\DientesLimpios.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Dominio\obj\Debug\net9.0\DientesLimpios.Dominio.dll
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Dominio\obj\Debug\net9.0\refint\DientesLimpios.Dominio.dll
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Dominio\obj\Debug\net9.0\DientesLimpios.Dominio.pdb
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Dominio\obj\Debug\net9.0\ref\DientesLimpios.Dominio.dll

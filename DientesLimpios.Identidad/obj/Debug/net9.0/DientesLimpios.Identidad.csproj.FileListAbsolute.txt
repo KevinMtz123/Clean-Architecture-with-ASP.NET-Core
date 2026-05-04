@@ -1,0 +1,17 @@
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Identidad\bin\Debug\net9.0\DientesLimpios.Identidad.deps.json
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Identidad\bin\Debug\net9.0\DientesLimpios.Identidad.dll
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Identidad\bin\Debug\net9.0\DientesLimpios.Identidad.pdb
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Identidad\bin\Debug\net9.0\DientesLimpios.Aplicacion.dll
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Identidad\bin\Debug\net9.0\DientesLimpios.Dominio.dll
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Identidad\bin\Debug\net9.0\DientesLimpios.Aplicacion.pdb
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Identidad\bin\Debug\net9.0\DientesLimpios.Dominio.pdb
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Identidad\obj\Debug\net9.0\DientesLimpios.Identidad.csproj.AssemblyReference.cache
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Identidad\obj\Debug\net9.0\DientesLimpios.Identidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Identidad\obj\Debug\net9.0\DientesLimpios.Identidad.AssemblyInfoInputs.cache
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Identidad\obj\Debug\net9.0\DientesLimpios.Identidad.AssemblyInfo.cs
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Identidad\obj\Debug\net9.0\DientesLimpios.Identidad.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Identidad\obj\Debug\net9.0\DientesL.7327F5B3.Up2Date
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Identidad\obj\Debug\net9.0\DientesLimpios.Identidad.dll
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Identidad\obj\Debug\net9.0\refint\DientesLimpios.Identidad.dll
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Identidad\obj\Debug\net9.0\DientesLimpios.Identidad.pdb
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Identidad\obj\Debug\net9.0\ref\DientesLimpios.Identidad.dll

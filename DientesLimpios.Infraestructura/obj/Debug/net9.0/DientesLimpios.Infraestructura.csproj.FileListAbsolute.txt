@@ -1,0 +1,17 @@
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Infraestructura\bin\Debug\net9.0\DientesLimpios.Infraestructura.deps.json
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Infraestructura\bin\Debug\net9.0\DientesLimpios.Infraestructura.dll
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Infraestructura\bin\Debug\net9.0\DientesLimpios.Infraestructura.pdb
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Infraestructura\bin\Debug\net9.0\DientesLimpios.Aplicacion.dll
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Infraestructura\bin\Debug\net9.0\DientesLimpios.Dominio.dll
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Infraestructura\bin\Debug\net9.0\DientesLimpios.Aplicacion.pdb
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Infraestructura\bin\Debug\net9.0\DientesLimpios.Dominio.pdb
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Infraestructura\obj\Debug\net9.0\DientesLimpios.Infraestructura.csproj.AssemblyReference.cache
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Infraestructura\obj\Debug\net9.0\DientesLimpios.Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Infraestructura\obj\Debug\net9.0\DientesLimpios.Infraestructura.AssemblyInfoInputs.cache
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Infraestructura\obj\Debug\net9.0\DientesLimpios.Infraestructura.AssemblyInfo.cs
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Infraestructura\obj\Debug\net9.0\DientesLimpios.Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Infraestructura\obj\Debug\net9.0\DientesL.9A87FD07.Up2Date
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Infraestructura\obj\Debug\net9.0\DientesLimpios.Infraestructura.dll
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Infraestructura\obj\Debug\net9.0\refint\DientesLimpios.Infraestructura.dll
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Infraestructura\obj\Debug\net9.0\DientesLimpios.Infraestructura.pdb
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Infraestructura\obj\Debug\net9.0\ref\DientesLimpios.Infraestructura.dll

@@ -1,0 +1,15 @@
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Aplicacion\bin\Debug\net9.0\DientesLimpios.Aplicacion.deps.json
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Aplicacion\bin\Debug\net9.0\DientesLimpios.Aplicacion.dll
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Aplicacion\bin\Debug\net9.0\DientesLimpios.Aplicacion.pdb
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Aplicacion\bin\Debug\net9.0\DientesLimpios.Dominio.dll
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Aplicacion\bin\Debug\net9.0\DientesLimpios.Dominio.pdb
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Aplicacion\obj\Debug\net9.0\DientesLimpios.Aplicacion.csproj.AssemblyReference.cache
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Aplicacion\obj\Debug\net9.0\DientesLimpios.Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Aplicacion\obj\Debug\net9.0\DientesLimpios.Aplicacion.AssemblyInfoInputs.cache
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Aplicacion\obj\Debug\net9.0\DientesLimpios.Aplicacion.AssemblyInfo.cs
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Aplicacion\obj\Debug\net9.0\DientesLimpios.Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Aplicacion\obj\Debug\net9.0\DientesL.6444730B.Up2Date
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Aplicacion\obj\Debug\net9.0\DientesLimpios.Aplicacion.dll
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Aplicacion\obj\Debug\net9.0\refint\DientesLimpios.Aplicacion.dll
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Aplicacion\obj\Debug\net9.0\DientesLimpios.Aplicacion.pdb
+C:\Users\kevin\Documents\Portafolio Dev NET\DientesLimpios\DientesLimpios.Aplicacion\obj\Debug\net9.0\ref\DientesLimpios.Aplicacion.dll

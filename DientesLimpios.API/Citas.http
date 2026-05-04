@@ -1,0 +1,37 @@
+@DientesLimpios.API_HostAddress = http://localhost:5221/api/citas
+
+GET {{DientesLimpios.API_HostAddress}}
+Accept: application/json
+
+###
+GET {{DientesLimpios.API_HostAddress}}/019DE462-6729-790B-814A-99F167241E26
+Accept: application/json
+Authorization: Bearer CfDJ8KzgGGV9wRVEkndSQLLrKiDfhQT-1Mbvinsy7vk7Ju1wCIJBkkJbM3hF5qQhpDZGF-xRlwQhHXd8yk4MvVqqo2LjmJXjVUccT2M_HrD3ok-vWc6ltq4PxR3iA6-ioQmt0eUHANONThCEnumm4mFd4z66FHty3LddnrqRcZx_ETZiIbRJGV1m-0jsMsGnOMU1OioSn3o8uvyG0q0klANDXJYHXY9ngj1oqara3hn_bsq-eiGm5Zfx8WpcDfyZRlyT3O5I5_kMncWG69sUuRfB8x2ufM5pq6boYjUz8QjfwQdNLaC_fFdNUA5MNXZBQdN4VWmB-S3cYdjMaqevhiDUyojOSezqFE6EN1fIOMyXjpzvun7t20m8hM8PO7t290OMZK_6h0Km3w9WXToNZNtQKJmxV7leYHoIdwp49QZuO0aq7P5mtvTfvvvGIU0StmRwvMvMlp14LozSpQEaIfHmWQf88Fm9qOVMK17YXhAGEuOdAof5KPRkiEYPn6TPiAWHmiAEUj5X_Ul8XCKeYNVAXlM7mUl9VIDjlZLUogSPj9lCH2XYmkatzB4HR1I5rq00FwsUN4YXo08sXJgSxI-nMcOIyxndRzForqLIb6JlPw57YjGFKvqoDTaHG8ARKPL4yRkFzalJMv8Ls1PLBg15Xdm6TSn7wUEQ2ktaJ5qU8oqm0lBUiVdD4pVfGf92uEgEMLoQ4yer7AEdJ_lLlVei4gA0XdQIM-IxuNyjZMG4K2yAggVzZIlLBtCeURfWRBQUGw
+###
+
+POST {{DientesLimpios.API_HostAddress}}
+Content-Type: application/json
+{
+  "pacienteId":"019deedf-4439-7447-a409-22505620eeae",
+  "dentistaId":"019de0f8-2b22-7fb4-9120-ee765db1febb",
+  "consultorioId":"019d937f-e1de-7ff3-bcd6-088656854362",
+  "fechaInicio":"2026-05-04T12:25:00",
+  "fechaFin":"2026-05-04T13:00:00"
+}
+###
+PUT {{DientesLimpios.API_HostAddress}}/019d6e3b-888a-742f-bd39-f56ea40a316d
+Content-Type: application/json
+{
+  "nombre":"Consultorio A - Actualizado"
+}
+###
+
+DELETE {{DientesLimpios.API_HostAddress}}/019d91f5-9453-7744-9c2a-80efd2789ae9
+Accept: application/json
+
+###
+POST {{DientesLimpios.API_HostAddress}}/019DE462-6729-790B-814A-99F167241E26/completar
+Accept: application/json
+###
+POST {{DientesLimpios.API_HostAddress}}/019DE461-1455-7C76-88C8-D5090EE2D90A/cancelar
+Accept: application/json
